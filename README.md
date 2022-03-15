@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Charles, a full-time software developer 👨‍💻 with 4+ years of experience & DevOps background🚀</div>  
-  
+### </br><div align="center">I'm Charles, a full-time software developer 👨‍💻 with </br>4+ years of experience & DevOps background🚀</div>  
+  </br>
 
 - 🔭 I’m currently working in Qlos 
 (https://qlos.com/)  
