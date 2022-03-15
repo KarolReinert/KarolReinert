@@ -73,6 +73,7 @@
 
 
 ## Connect with me  
+<br/>
 <div align="center">
 <a href="https://github.com/KarolReinert" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,10 +85,18 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+<br/>
+
+## Certificates
+<br/>
+<div align="left">
+<a href="https://www.credly.com/badges/2ba78db6-9790-4777-8da3-888f37a6b2e6" target="_blank">
+<img src="aws_cert_developer.png" align="center" style="width: 15%" />
+</a>
+</div>  
 
 <br/>  
-
+<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KarolReinert&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
