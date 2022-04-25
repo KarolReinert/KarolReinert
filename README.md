@@ -87,16 +87,6 @@
 </div>  
 <br/>
 
-## Certificates
-<br/>
-<div align="left">
-<a href="https://www.credly.com/badges/2ba78db6-9790-4777-8da3-888f37a6b2e6" target="_blank">
-<img src="aws_cert_developer.png" align="center" style="width: 15%" />
-</a>
-</div>  
-
-<br/>  
-<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KarolReinert&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
